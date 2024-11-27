@@ -9,7 +9,7 @@ import atexit
 
 # Configuración
 STOP_CODE = "666"
-MUSIC_FILE = "PrankPy/perturbador.mp3"
+MUSIC_FILE = "perturbador.mp3"
 LOCK_FILE = os.path.expanduser("~/.termux_locked")
 
 def create_lock_files():
